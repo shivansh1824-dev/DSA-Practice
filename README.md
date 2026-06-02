@@ -94,6 +94,7 @@ Daily DSA practice and coding interview preparation.
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -166,6 +167,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
