@@ -56,6 +56,7 @@ Daily DSA practice and coding interview preparation.
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Daily DSA practice and coding interview preparation.
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -187,6 +189,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3842-toggle-light-bulbs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/3842-toggle-light-bulbs) |
 ## Greedy
 |  |
