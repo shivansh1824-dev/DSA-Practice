@@ -14,6 +14,7 @@ Daily DSA practice and coding interview preparation.
 | [0058-length-of-last-word](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -67,6 +68,7 @@ Daily DSA practice and coding interview preparation.
 | [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -185,6 +187,7 @@ Daily DSA practice and coding interview preparation.
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
