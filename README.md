@@ -17,6 +17,7 @@ Daily DSA practice and coding interview preparation.
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Stack
@@ -72,6 +73,7 @@ Daily DSA practice and coding interview preparation.
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/3842-toggle-light-bulbs) |
@@ -178,6 +180,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
