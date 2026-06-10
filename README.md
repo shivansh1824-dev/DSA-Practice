@@ -17,6 +17,7 @@ Daily DSA practice and coding interview preparation.
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -62,6 +63,7 @@ Daily DSA practice and coding interview preparation.
 | [0283-move-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -219,6 +221,7 @@ Daily DSA practice and coding interview preparation.
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
