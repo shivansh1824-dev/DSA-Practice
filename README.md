@@ -13,6 +13,7 @@ Daily DSA practice and coding interview preparation.
 | [0020-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
@@ -73,6 +74,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
@@ -102,6 +104,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -205,6 +208,7 @@ Daily DSA practice and coding interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
