@@ -92,6 +92,7 @@ Daily DSA practice and coding interview preparation.
 | [0002-add-two-numbers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
@@ -163,6 +164,7 @@ Daily DSA practice and coding interview preparation.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
