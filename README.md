@@ -293,5 +293,6 @@ Daily DSA practice and coding interview preparation.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
