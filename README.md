@@ -290,4 +290,8 @@ Daily DSA practice and coding interview preparation.
 | [0101-symmetric-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
