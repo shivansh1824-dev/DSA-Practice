@@ -293,6 +293,7 @@ Daily DSA practice and coding interview preparation.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
