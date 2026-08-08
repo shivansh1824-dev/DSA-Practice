@@ -297,6 +297,7 @@ Daily DSA practice and coding interview preparation.
 | [0584-find-customer-referee](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1148-article-views-i) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
