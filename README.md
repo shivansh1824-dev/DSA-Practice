@@ -111,6 +111,7 @@ Daily DSA practice and coding interview preparation.
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
+| [0238-product-of-array-except-self](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -310,6 +311,7 @@ Daily DSA practice and coding interview preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
