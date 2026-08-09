@@ -114,6 +114,7 @@ Daily DSA practice and coding interview preparation.
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -181,6 +182,7 @@ Daily DSA practice and coding interview preparation.
 | [0155-min-stack](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -308,6 +310,7 @@ Daily DSA practice and coding interview preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
