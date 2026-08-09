@@ -118,6 +118,7 @@ Daily DSA practice and coding interview preparation.
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -307,6 +308,7 @@ Daily DSA practice and coding interview preparation.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
