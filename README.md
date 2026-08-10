@@ -304,6 +304,7 @@ Daily DSA practice and coding interview preparation.
 | [0577-employee-bonus](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
