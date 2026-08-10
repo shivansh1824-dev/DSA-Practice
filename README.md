@@ -305,6 +305,7 @@ Daily DSA practice and coding interview preparation.
 | [0584-find-customer-referee](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1683-invalid-tweets) |
