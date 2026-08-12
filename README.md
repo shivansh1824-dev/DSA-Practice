@@ -75,6 +75,7 @@ Daily DSA practice and coding interview preparation.
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
@@ -108,6 +109,7 @@ Daily DSA practice and coding interview preparation.
 | [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
@@ -176,6 +178,7 @@ Daily DSA practice and coding interview preparation.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
