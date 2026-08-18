@@ -15,6 +15,7 @@ Daily DSA practice and coding interview preparation.
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0383-ransom-note) |
@@ -43,6 +44,7 @@ Daily DSA practice and coding interview preparation.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -95,6 +97,7 @@ Daily DSA practice and coding interview preparation.
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0231-power-of-two) |
@@ -173,6 +176,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
