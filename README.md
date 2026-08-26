@@ -279,6 +279,7 @@ Daily DSA practice and coding interview preparation.
 | [0144-binary-tree-preorder-traversal](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,6 +299,7 @@ Daily DSA practice and coding interview preparation.
 | [0144-binary-tree-preorder-traversal](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,4 +342,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
