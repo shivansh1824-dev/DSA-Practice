@@ -114,6 +114,7 @@ Daily DSA practice and coding interview preparation.
 | [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
@@ -173,6 +174,7 @@ Daily DSA practice and coding interview preparation.
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
