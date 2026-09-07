@@ -88,6 +88,7 @@ Daily DSA practice and coding interview preparation.
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/3842-toggle-light-bulbs) |
 ## Math
@@ -136,6 +137,7 @@ Daily DSA practice and coding interview preparation.
 | [1732-find-the-highest-altitude](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/3842-toggle-light-bulbs) |
@@ -214,6 +216,7 @@ Daily DSA practice and coding interview preparation.
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
