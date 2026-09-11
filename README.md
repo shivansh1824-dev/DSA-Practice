@@ -23,6 +23,7 @@ Daily DSA practice and coding interview preparation.
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Stack
@@ -72,6 +73,7 @@ Daily DSA practice and coding interview preparation.
 | [0392-is-subsequence](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
