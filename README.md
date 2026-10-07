@@ -64,6 +64,7 @@ Daily DSA practice and coding interview preparation.
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
@@ -156,6 +157,7 @@ Daily DSA practice and coding interview preparation.
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -238,6 +240,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0049-group-anagrams](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3842-toggle-light-bulbs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/3842-toggle-light-bulbs) |
@@ -278,6 +281,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
@@ -361,4 +365,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
