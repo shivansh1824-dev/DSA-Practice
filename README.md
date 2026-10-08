@@ -369,4 +369,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0148-sort-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
